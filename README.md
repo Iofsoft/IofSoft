@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Ian Fernandes 👋
 
+Contact: 
+oliveira.ian3@gmail.com
 <!--
 **Iofsoft/IofSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
